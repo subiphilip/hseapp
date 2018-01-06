@@ -1,5 +1,6 @@
-# NativeBase KitchenSink v2.4.5
-An example app with all the UI components of NativeBase
+# Health Safety and Enviromental v1.0.0
+An app to manage field HSE incident, observations and management tasks. 
+This app uses the UI components of NativeBase.
 
 > **NativeBase-KitchenSink** comes in three forms of app for you!
 >1. Pure React Native App with `react-navigation` on branch **[master](https://github.com/GeekyAnts/NativeBase-KitchenSink)**
