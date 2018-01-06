@@ -1,4 +1,18 @@
 {
-  "name": "NativebaseKitchenSink",
-  "displayName": "NativebaseKitchenSink"
+  "name": "HSEApp",
+  "displayName": "HSEApp",
+  "expo": {
+    "sdkVersion": "22.0.0",
+    "name": "HSEApp",
+    "slug": "HSEApp",
+	"icon": "src/images/app-icon.png",
+    "privacy": "public",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.HSEApp"
+    },
+    "android": {
+      "package": "com.yourcompany.HSEApp"
+    }
+  }  
+  
 }
