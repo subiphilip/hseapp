@@ -14,8 +14,32 @@ import {
 import styles from "./style";
 
 const drawerCover = require("../../../assets/drawer-cover.png");
-const drawerImage = require("../../../assets/logo-kitchen-sink.png");
+const drawerImage = require("../../../assets/HSE/HSEsqLogo.png");
 const datas = [
+  {
+    name: "Safety Incident",
+    route: "Anatomy",
+    icon: "phone-portrait",
+    bg: "#C5F442"
+  },
+  {
+    name: "Safety Observation",
+    route: "Anatomy",
+    icon: "phone-portrait",
+    bg: "#C5F442"
+  },
+  {
+    name: "Job Safety Analysis",
+    route: "Anatomy",
+    icon: "phone-portrait",
+    bg: "#C5F442"
+  },
+  {
+    name: "Smart JSA",
+    route: "Anatomy",
+    icon: "phone-portrait",
+    bg: "#C5F442"
+  }/*,
   {
     name: "Anatomy",
     route: "Anatomy",
@@ -172,7 +196,7 @@ const datas = [
     route: "NHTypography",
     icon: "paper",
     bg: "#48525D"
-  }
+  }*/
 ];
 
 class SideBar extends Component {
